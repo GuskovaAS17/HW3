@@ -1,3 +1,3 @@
 # HW3
 
-![](fdo.jpg)
+![](fdo.PNG)
