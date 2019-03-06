@@ -1,16 +1,16 @@
 # HW3
-1. устаревшие слова
+Задание 4. устаревшие слова
 ![](fdo.PNG)
 
 ![](lomb.PNG)
 
 ![](lom2.PNG)
-2. список n-грамм
+Задание 5. список n-грамм
 
 ![](hw1.PNG)
-3. wordlist
+Задание 3. wordlist
 
 ![](hw2.PNG)
-4. collocates
+Задание 6. collocates
 
 ![](hw4.PNG)
