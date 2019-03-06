@@ -11,6 +11,7 @@
 Задание 3. wordlist
 
 ![](hw2.PNG)
+
 Задание 6. collocates
 
 ![](hw4.PNG)
