@@ -15,3 +15,5 @@
 Задание 6. collocates
 
 ![](hw4.PNG)
+
+![](rt.PNG)
