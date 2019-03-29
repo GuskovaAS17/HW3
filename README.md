@@ -24,8 +24,8 @@
 Google N-Grams - 1808
 НКРЯ - 1802
 наиболее часто употеблялось со словами:
-Google N-Grams  ![](gng1.PNG)
-НКРЯ  ![](rk1.PNG)
+Google N-Grams  ![](gng1.png)
+НКРЯ  ![](rk1.png)
 
 ipm - 0,565084663
 
