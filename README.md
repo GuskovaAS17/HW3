@@ -1,18 +1,21 @@
 # HW3
-Задание 4. устаревшие слова
+Задание 1. AntConc
+1) wordlist
+
+![](hw2.PNG)
+
+2) устаревшие слова
 ![](fdo.PNG)
 
 ![](lomb.PNG)
 
 ![](lom2.PNG)
-Задание 5. список n-грамм
 
+3) N-Grams
 ![](hw1.PNG)
-Задание 3. wordlist
 
-![](hw2.PNG)
 
-Задание 6. collocates
+4) collocates
 
 ![](hw4.PNG)
 
