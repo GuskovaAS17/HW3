@@ -31,7 +31,7 @@ Google N-Grams:
 ![](gng1.png)
 НКРЯ: 
 ![](rk1.png)
-![](gn1.png)
+![](gn4.png)
 ipm - 0,565084663
 
 
@@ -79,7 +79,7 @@ Google N-Grams:
 ![](gng4.png)
 НКРЯ:  
 ![](rk4.png)
-![](gn4.png)
+![](gn1.png)
 ipm - 0,000022792
 
 
